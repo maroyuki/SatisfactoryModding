@@ -3,3 +3,6 @@
 # RootInstance
 GetGameInastanceModuleManeger->FindModule(FString YourModReference)->Cast To RootInstance_YourModReference
 
+# RootGameWorld
+GetWorldModuleManeger->FindModule(FString YourModReference)->Cast To RootGameWorld_YourModReference
+
