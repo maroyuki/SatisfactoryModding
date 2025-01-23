@@ -9,7 +9,7 @@ GetWorldModuleManeger->FindModule(FString YourModReference)->Cast To RootGameWor
 ## VSによるBuild関係
 
 ### xxx.generated.hが見つからずにBuildできない
-1. StartProjectに対し、commitせずに変更をStashし、pull
+1. StarterProjectに対し、commitせずに変更をStashし、pull
 2. .\Intermediateや.\Binariesフォルダを削除
 4. FactoryGame.uprojectを右クリックし、VSファイルを再生成
 5. Build
